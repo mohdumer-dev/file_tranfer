@@ -1,2 +1,2 @@
-# file_tranfer
-https://cloud.appwrite.io/v1/account/sessions/oauth2/callback/google/67740bbb001fd83c7d57
+NEXT_PUBLIC_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1
+NEXT_PUBLIC_APPWRITE_PROJECT_ID=67740bbb001fd83c7d57
